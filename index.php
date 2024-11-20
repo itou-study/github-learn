@@ -12,10 +12,6 @@ $base="./"
 <main>
 <section id="about">
     <div class="hgroup-con">
-        <hgroup>
-            <p>Company</p>
-            <h2>会社概要</h2>
-        </hgroup>
     </div>
     <dl class="dl-list">
         <div>
