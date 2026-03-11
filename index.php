@@ -20,7 +20,7 @@ $base="./"
     <dl class="dl-list">
         <div>
             <dt>会社名</dt>
-            <dd>NEXT RESERVATION株式会社</dd>
+            <dd>あさこ株式会社</dd>
         </div>
         <div>
             <dt>代表者</dt>
